@@ -20,7 +20,7 @@ export default class App extends Component{
             <GlobalStyle />
             <Header />
             <Main />
-            <Card nome="Letícia" idade={23} tecnologia=" Javascript e React" /> 
+            <Card nome="Letícia" idade={23} tecnologia=" Javascript and React" /> 
             <Footer />
             </>
         )
