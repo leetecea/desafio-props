@@ -22,18 +22,12 @@ const Contain = styled.footer`
   }
   `;
 
-
-const Paragrafo = styled.p``;
 export default class Footer extends Component {
   render() {
     return (
       <Contain>
         <p>Developed by <span>Letícia Costa</span>. 2022.</p>
         <img src={Cat} alt="" className="cat" />
-        <div>
-            <img src="" alt="" />
-            <img src="" alt="" />
-        </div>
       </Contain>
     );
   }
