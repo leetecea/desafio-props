@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/desafio-props/static/js/main.d2d2ef74.js",
+    "main.js": "/desafio-props/static/js/main.48bb2aa0.js",
+    "static/media/cats1.png": "/desafio-props/static/media/cats1.b866521c07f6d4c9f55f.png",
+    "static/media/cats2.png": "/desafio-props/static/media/cats2.863dca166fd06261a733.png",
+    "static/media/kitty.png": "/desafio-props/static/media/kitty.ab004c1864f74b3f7156.png",
+    "static/media/hacker-cat.svg": "/desafio-props/static/media/hacker-cat.a47d1088c3ca786d7be142556d7bb604.svg",
     "index.html": "/desafio-props/index.html",
-    "main.d2d2ef74.js.map": "/desafio-props/static/js/main.d2d2ef74.js.map"
+    "main.48bb2aa0.js.map": "/desafio-props/static/js/main.48bb2aa0.js.map"
   },
   "entrypoints": [
-    "static/js/main.d2d2ef74.js"
+    "static/js/main.48bb2aa0.js"
   ]
 }
